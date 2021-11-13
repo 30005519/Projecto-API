@@ -7,7 +7,7 @@ const app = express()
 
 const newspapers = [
     {
-        name: 'Ponto de Situação Actual em Portugal',
+        name: 'Ponto de Situação Atual em Portugal',
         adress: 'https://covid19.min-saude.pt/ponto-de-situacao-atual-em-portugal/',
         base: 'https://covid19.min-saude.pt'
     },
