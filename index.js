@@ -12,7 +12,7 @@ const newspapers = [
         base: 'https://covid19.min-saude.pt'
     },
     {
-        name: 'Em caso de Isolamento',
+        name: 'Em caso de isolamento',
         adress: 'https://covid19.min-saude.pt/wp-content/uploads/2020/03/Folheto-isolamento.pdf',
         base: 'https://covid19.min-saude.pt'
     },
