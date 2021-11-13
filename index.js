@@ -21,6 +21,21 @@ const newspapers = [
         adress: 'https://covid19.min-saude.pt/category/perguntas-frequentes/',
         base: 'https://covid19.min-saude.pt'
     },
+    {
+        name: 'Sapo',
+        adress: 'https://www.sapo.pt/noticias/covid19/',
+        base: 'https://www.sapo.pt/noticias/covid19'
+    },
+    {
+        name: 'Público',
+        adress: 'https://www.publico.pt/2021/11/13/sociedade/noticia',
+        base: 'https://www.publico.pt'
+    },
+    {
+        name: 'DN',
+        adress: 'https://www.dn.pt/tag/coronavirus.html',
+        base: 'https://www.dn.pt'
+    },
 ]
 
 const articles =[]
